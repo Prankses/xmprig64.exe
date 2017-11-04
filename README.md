@@ -1,0 +1,1 @@
+# xmprig64.exe
